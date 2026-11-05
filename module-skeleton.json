@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-collaboration-nextjs",
+  "capabilityKey": "liberusoftware/music-collaboration",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-music-collaboration-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/music/nextjs/collaboration.md",
+  "presentationPlan": "projects/music/nextjs/collaboration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
